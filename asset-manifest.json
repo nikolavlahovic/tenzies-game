@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/nikolavlahovic/tenzies-game/static/css/main.cce0c9cf.css",
+    "main.js": "/nikolavlahovic/tenzies-game/static/js/main.12e4f342.js",
+    "static/js/787.030a1986.chunk.js": "/nikolavlahovic/tenzies-game/static/js/787.030a1986.chunk.js",
+    "index.html": "/nikolavlahovic/tenzies-game/index.html",
+    "main.cce0c9cf.css.map": "/nikolavlahovic/tenzies-game/static/css/main.cce0c9cf.css.map",
+    "main.12e4f342.js.map": "/nikolavlahovic/tenzies-game/static/js/main.12e4f342.js.map",
+    "787.030a1986.chunk.js.map": "/nikolavlahovic/tenzies-game/static/js/787.030a1986.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cce0c9cf.css",
+    "static/js/main.12e4f342.js"
+  ]
+}
